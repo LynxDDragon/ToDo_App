@@ -1,0 +1,41 @@
+{
+    "tasks": [
+        {
+            "list": "January 15",
+            "jobs": {
+                "job1": "Mow The Lawn",
+                "job2": "Paint The Fense",
+                "job3": "Replace The Floor Tiles"
+            }
+
+        },
+
+        {
+            "list": "Febuary 26",
+            "jobs": {
+                "job1": "Mow The Lawn",
+                "job2": "Replace Deck Wood",
+                "job3": "Change Car's Oil Filter"
+            }
+
+
+        },
+
+
+        {
+            "list": "May 24",
+            "jobs": {
+                "job1": "Plant Flowers",
+                "job2": "Spray Fungicide on Peach Tree",
+                "job3": "Clean Solar Pannels"
+            }
+
+
+        }
+
+
+
+
+
+    ]
+}
